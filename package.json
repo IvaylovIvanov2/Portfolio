@@ -1,0 +1,15 @@
+{
+  "name": "opade",
+  "version": "1.0.0",
+  "description": "Responsive portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Ivaylo",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.4",
+    "npm-git-install": "^0.3.0"
+  }
+}
